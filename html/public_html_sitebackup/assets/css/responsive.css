@@ -1,0 +1,399 @@
+@media screen and (min-width: 1500px) {
+     .container {
+       max-width: 1440px;
+     }
+     h4 {
+       font-size: 21px;
+     }
+     h2 {
+       font-size: 42px;
+     }
+     h3 {
+       font-size: 29px;
+       font-weight: 700;
+     }
+     form p {
+       font-size: 14px;
+     }
+     .explore-our-services-tags a {
+       font-size: 24px;
+     }
+     .home-instead-differ {
+       margin-top: 50px;
+     }
+     .header-img img {
+       max-width: 361px;
+     }
+     header.header-section {
+       background-color: #681d49;
+       padding: 23px 0px;
+     }
+     .Alzheimer-Dementia-Care-section-content {
+       padding: 50px 80px 50px 80px;
+     }
+     .list li {
+       font-size: 18px;
+     }
+     .bottom-form-conversation- h3 {
+       max-width: 925px;
+     }
+     .bottom-form-conversation- h3 {
+       font-weight: 700;
+     }
+     .explore-our-services-tags {
+       max-width: 977px;
+       row-gap: 19px;
+       column-gap: 36px;
+     }
+     .footer-bg {
+       padding: 40px 0px 39px 0px;
+     }
+   }
+   @media screen and (min-width: 1700px) {
+     .container {
+       max-width: 1670px;
+     }
+   }
+   @media screen and (max-width: 1499px) {
+        .home-care-righht-sec iframe {
+       height: 300px;
+   }
+   }
+   @media screen and (max-width: 1399px) {
+     .header-img img {
+       max-width: 361px;
+     }
+   }
+   @media screen and (max-width: 1199px) {
+     h3 {
+       font-size: 28px;
+     }
+     h4 {
+       font-size: 21px;
+     }
+     h5 {
+       font-size: 19px;
+     }
+     .header-img img {
+       max-width: 300px;
+     }
+     .consulation-form-section-img {
+       padding-top: 74px;
+       height: 100%;
+     }
+     .consulation-form-section-content {
+       padding-left: 14px;
+       padding-top: 64px;
+     }
+     .start-converstaion h4 {
+       max-width: 345px;
+       line-height: normal;
+     }
+     .form-control {
+       margin-top: 10px;
+       background-color: #f5f1f2;
+       padding: 11px;
+       font-size: 16px;
+       line-height: normal;
+     }
+     button.btn-1 {
+       margin-top: 26px;
+       padding: 10px 32px;
+     }
+     form p {
+       font-size: 14px;
+       margin-top: 14px;
+     }
+     .shedule-a-consulation h4 {
+       line-height: normal;
+     }
+     .consulation-form-section-img img {
+       height: 100%;
+     }
+     .Alzheimer-Dementia-Care-section-content {
+       padding: 22px 30px 35px 30px;
+     }
+     .Alzheimer-Dementia-Care-section-content p {
+       margin-top: 10px;
+     }
+     .list {
+       margin-top: 10px;
+     }
+     .explore-our-services-tags a {
+       font-size: 17px;
+     }
+     .explore-our-services-tags {
+       row-gap: 20px;
+       column-gap: 57px;
+     }
+     section.bottom-form-sec {
+       padding: 80px 0px 84px 0px;
+     }
+     .footer-logo img {
+       width: 270px;
+     }
+     .footer-bg {
+       padding: 40px 0px 40px 0px;
+     }
+     .bottom-form-conversation- h3 {
+       max-width: 857px;
+     }
+     section.consulation-form-section {
+       padding-bottom: 80px;
+   }
+   }
+   @media screen and (max-width: 991px) {
+     header.header-section {
+       padding: 25px 0px;
+     }
+     h2 {
+       font-size: 40px;
+     }
+     h3 {
+       font-size: 24px;
+     }
+     h5 {
+       font-size: 15px;
+     }
+     p {
+       font-size: 18px;
+     }
+     .header-right-content h5 {
+       font-weight: 600;
+       line-height: 23px;
+       /* max-width:700px ; */
+       margin: auto;
+       margin-top: 40px;
+     }
+     .home-instead-differ ul {
+       margin-top: 0px;
+     }
+     .header-img img {
+       max-width: 251px;
+     }
+     span.title-ul {
+       font-size: 22px;
+       font-weight: 400;
+       margin-left: 24px;
+     }
+     .consulation-form-section-content {
+       padding-left: 14px;
+       padding-top: 42px;
+     }
+     .consulation-form-section-img {
+       padding-top: 50px;
+     }
+     .start-converstaion h4 {
+       max-width: 498px;
+       line-height: normal;
+       margin: auto;
+     }
+     .shedule-a-consulation h4 {
+       margin-top: 12px;
+     }
+     section.home-care {
+       padding: 25px 0px 48px 0px;
+     }
+     .home-care-left-sec {
+       margin-top: 40px;
+     }
+     .home-care-left-sec p {
+       margin: auto;
+     }
+     .home-care-left-sec h2 {
+       text-align: center;
+     }
+     .home-care-left-sec p {
+       text-align: center;
+     }
+     .home-care-righht-sec {
+       margin-top: 44px;
+     }
+     section.explore-our-services {
+       padding: 50px 0px 0px 0px;
+     }
+     .explore-our-services-tags {
+       row-gap: 12px;
+       column-gap: 37px;
+     }
+     .footer-logo {
+       text-align: center;
+     }
+     .our-office {
+       margin-top: 20px;
+     }
+     .Consultation h3 {
+       margin: auto;
+       max-width: 347px;
+       margin-top: 20px;
+     }
+     section.bottom-form-sec {
+       padding: 52px 0px 52px 0px;
+     }
+     .header-img {
+       text-align: center;
+   }
+   .home-care-left-sec p {
+     max-width: 647px;
+   }
+   .our-office p {
+     max-width: 159px;
+     font-size: 18px;
+   }
+   .Alzheimer-Dementia-Care-section-content h3 {
+     line-height: normal;
+   }
+   section.consulation-form-section {
+       padding-bottom: 60px;
+   }
+   }
+   
+   @media screen and (max-width: 767px) {
+     .header-img {
+       text-align: center;
+     }
+     h3 {
+       font-size: 15px;
+   }
+   h4 {
+     font-size: 16px;
+   }
+     p {
+       font-size: 14px;
+     }
+   h2 {
+     font-size: 28px;
+     line-height: normal;
+   }
+   .shedule-a-consulation h3 {
+     line-height: 15px;
+   }
+     .header-right-content h5 {
+       /* max-width: 334px; */
+       margin: auto;
+       margin-top: 20px;
+     }
+     .explore-our-services-tags {
+       row-gap: 6px;
+       column-gap: 14px;
+   }
+   .home-instead-differ {
+     margin-top: 29px;
+   }
+   .footer-logo img {
+     width: 200px;
+   }
+   .our-office p {
+     font-size: 20px;
+   }
+   .Consultation h3 {
+     margin-top: 7px;
+   }
+   .home-instead-differ li {
+     font-size: 14px;
+     line-height: 32px;
+   
+   }
+   .explore-our-services-tags {
+     row-gap: 0px;
+     column-gap: 12px;
+     margin-top: 10px;
+   }
+   .list li {
+     font-size: 16px;
+   }
+   .bottom-form-conversation- h3 {
+     font-weight: 700;
+     line-height: normal;
+     margin-top: 16px;
+   }
+   .bottom-form-sec-content p {
+     font-size: 15px;
+    
+   }
+   form.bottom-form p {
+     font-size: 15px;
+   }
+   .our-office p {
+     font-size: 15px;
+     line-height: 1.9;
+   }
+   .our-office h3 {
+     line-height: normal;
+     margin-top: 10px;
+   }
+   .list li {
+     line-height: normal;
+   }
+   .Alzheimer-Dementia-Care-section-content p {
+     line-height: normal;
+   }
+   .bottom-form-sec-content p {
+     line-height: normal;
+   }
+   .footer-bg {
+     padding: 20px 0px 20px 0px;
+   }
+   section.consulation-form-section {
+       padding-bottom: 40px;
+   }
+   }
+   @media screen and (max-width: 575px) {
+     .header-right-content h5 {
+       line-height: normal;
+   }
+     h5 {
+       font-size: 14px;
+   }
+     .home-instead-differ li {
+       font-size: 14px;
+       line-height: 1.4;
+   }
+   form.bottom-form p {
+     font-size: 15px;
+     line-height: normal;
+   }
+   .form-control {
+     font-size: 14px;
+   }
+   span.title-ul {
+     font-size: 18px;
+   }
+   form p {
+     font-size: 14px;
+     line-height: normal;
+   }
+   .home-care-left-sec p {
+     line-height: normal;
+   }
+   .list li {
+     font-size: 14px;
+     font-weight: 500;
+   }
+   .explore-our-services-tags a {
+     font-size: 14px;
+     line-height: 1.9;
+   }
+   .Alzheimer-Dementia-Care-section {
+     margin-top: 40px;
+   }
+   .Consultation h3 {
+     max-width: 242px;
+     line-height: 1.9;
+   }
+   .Alzheimer-Dementia-Care-section-content {
+     padding: 24px 15px 35px 15px;
+   }
+   .bottom-form-sec h5 {
+     line-height: normal;
+   }
+   .footer-logo img {
+     width: 150px;
+   }
+   .header-img img {
+     max-width: 150px;
+   }
+   .home-care-righht-sec iframe {
+     height: 190px;
+   }
+   }

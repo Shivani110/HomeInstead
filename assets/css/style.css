@@ -1,0 +1,616 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {overflow-x: hidden;}
+img {
+  width: 100%;
+}
+strong {
+  font-weight: 700;
+}
+.magenta {
+   color: rgba(104, 29, 73, 1);
+}
+.purple {
+  color: #681d49;
+}
+.col-lg-8.no-pad {
+  padding: 0px;
+  overflow-x: hidden;
+}
+h1 {
+  font-family: Open Sans;
+  line-height: 63px;
+  letter-spacing: 0em;
+  font-size: 46px;
+}
+h3 {
+  font-size: 32px;
+  font-family: Open Sans;
+  font-weight: 700;
+}
+h4 {
+  font-family: Open Sans;
+  font-size: 24px;;
+}
+h5 {
+  font-size: 22px;
+}
+p {
+  font-size: 20px;
+}
+.bottom-zero {
+  margin-bottom: 0px;
+}
+/* Header section css */
+header.header-section {
+  background-color: #681d49;
+  padding: 53px 0px;
+}
+.header-img img {
+  max-width: 420px;
+}
+.header-right-content h5 {
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  max-width: 617px;
+}
+section.consulation-form-section {
+    padding-bottom: 100px;
+}
+/* consulation-form-section */
+
+/* section.consulation-form-section {
+  margin-top: 74px;
+} */
+
+.consulation-form-section-img {
+padding-top: 74px;
+}
+.consulation-form-section-content {
+  padding-left: 72px;
+  padding-top: 64px;
+}
+.start-converstaion h4 {
+  font-weight: 700; 
+  line-height: 38px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #000000;
+  max-width: 599px;
+}
+.shedule-a-consulation h4 {
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+span.free {
+  font-weight: 600;
+}
+.shedule-a-consulation h3 {
+  line-height: 38px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+
+.form-control {
+  margin-top: 20px;
+  border: none;
+  background-color: #f5f1f2;
+  padding: 14px;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-radius: 0px;
+}
+button.btn-1 {
+  margin-top: 40px;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding: 13px 41px;
+  background-color: #ba135f;
+  color: white;
+  border: none;
+}
+
+form {
+  text-align: center;
+  margin-top: 13px;
+}
+.form-control:focus {
+  box-shadow: none !important;
+  background-color: #F5F1F2 !important;
+}
+form p {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  max-width: 580px;
+  margin: auto;
+  margin-top: 23px;
+  color: #999999;
+}
+.home-instead-differ {
+  margin-top: 74px;
+}
+ul.home-instead-ul {
+  margin-bottom: 0px;
+}
+.home-instead-differ li {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4e4e4e;
+}
+.home-instead-differ h3 {
+  line-height: 38px;
+  letter-spacing: 0.01em;
+}
+
+.home-instead-differ ul {
+  margin-top: 10px;
+}
+
+/* section-home-care */
+
+section.home-care {
+  background-color: #681d49;
+  padding: 123px 0px 100px 0px;
+  /* margin-top: 105px; */
+}
+.home-care-left-sec p {
+  color: white;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  max-width: 622px;
+  margin-top: 10px;
+}
+.home-care-left-sec {
+  margin-top: 91px;
+}
+.home-care-left-sec h2 {
+  font-family: Open Sans;
+  line-height: 63px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+}
+
+section.explore-our-services {
+  padding: 93px 0px 0px 0px;
+}
+
+/* explore-our-services  section start here */
+.explore-our-services-tags a {
+  font-family: Open Sans;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(187, 30, 96, 1);
+  text-decoration: none;
+}
+section.explore-our-services h1 {
+  text-align: center;
+  font-weight: 700;
+}
+.explore-our-services-tags {
+  max-width: 1308px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 26px;
+  column-gap: 77px;
+  justify-content: center;
+  margin-top: 36px;
+}
+
+.Alzheimer-Dementia-Care-section {
+  margin-top: 71px;
+}
+.Alzheimer-Dementia-Care-section-content {
+  padding: 77px 103px 77px 103px;
+  background-color: rgba(245, 241, 242, 1);
+  height: 100%;
+}
+.Alzheimer-Dementia.Care-section-content h3 {
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(104, 29, 73, 1);
+}
+.Alzheimer-Dementia-Care-section-content p {
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  max-width: 870px;
+  margin-top: 20px;
+}
+.list li {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.list {
+  margin-top: 28px;
+}
+span.title-ul  {
+  font-family: Open Sans;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.Alzheimer-Dementia-Care-section-content h3 {
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #681d49;
+}
+.col-lg-8.no-pad {
+  padding: 0px;
+}
+.col-lg-4.no-pad {
+  padding: 0px;
+}
+.Alzheimer-Dementia-Care-row {
+  margin-top: 30px;
+}
+.Alzheimer-Dementia-Care-section-img {
+  height: 100%;
+}
+.Alzheimer-Dementia-Care-section-img img {
+  height: 100%;
+      object-fit: cover;
+}
+
+/* section.bottom-form-sec */
+
+section.bottom-form-sec {
+  padding: 112px 0px 129px 0px;
+}
+.bottom-form {
+  max-width: 700px;
+  margin: auto;
+  margin: auto;
+}
+
+.bottom-form-sec-content p {
+  max-width: 859px;
+  margin: auto;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #4E4E4E;
+}
+.bottom-form-conversation- h3 {
+  font-weight: 800;
+  line-height: 42px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  max-width: 994px;
+  margin: auto;
+  margin-top: 12px;
+}
+.form-control::placeholder {
+  color: #838383;
+}
+.bottom-form-sec h5 {
+  font-family: open-sans;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin-top: 18px;
+}
+.bottom-form-num h3 {
+  font-family: Open Sans;
+  font-weight: 800;
+  line-height: 44px;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+
+form.bottom-form p {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  max-width: 701px;
+  margin-top: 24px;
+}
+
+
+/* footer section */
+
+.footer-logo img {
+  width: 160px;
+}
+.our-office h3 {
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: white;
+}
+.our-office p {
+  font-weight: 500;
+  text-align: center;
+  color: white;
+  max-width: 233px;
+  margin: auto;
+  font-family: Open Sans;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 36px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+.Consultation h3 {
+  color: white;
+  max-width: 459px;
+  line-height: 50px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+.footer-logo img {
+  width: 284px;
+}
+.footer-bg {
+  background: rgb(104, 29, 73);
+  padding: 52px 0px 52px 0px;
+}
+.last-line p {
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+  color: #000000;
+  padding: 20px 0px;
+}
+.nav-link {
+  color: #000000;
+}
+.footer-logo img {
+  width: 366px;
+}  
+
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+  background-color:none !important;
+  margin: 20px auto;
+  max-width: 629px; 
+  background-color: #ffffff00;
+}
+/* .modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  color: var(--bs-modal-color);
+  pointer-events: auto;
+ 
+  background-clip: padding-box;
+  border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+  border-radius: var(--bs-modal-border-radius);
+  outline: 0;
+} */
+/* */
+.close {
+  position: absolute;
+  right: 8px;
+  top: 14px;
+  color: #681D49;
+
+  font-size: 26px;
+  font-weight: bold;
+  background: #FFFFFF3D;
+  border-radius: 50%;
+  height: 22px;
+  width: 22px;
+  line-height: 15px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.start-converstaion1 h4 {
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  padding: 29px 50px;
+  margin-bottom: 0px;
+}
+.start-converstaion1 {
+  background-color: #681D49;
+  border-radius: 15px 15px 0px 0px;
+}
+.consulation-content {
+  padding: 28px 32px 38px 32px;
+  background-color: white;
+}
+.shedule-a-consulation1 h4 {
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+  max-width: 530px;
+  margin: auto;
+}
+.form-border {
+  border-radius: 5px;
+  border: 1px solid #681d491c;
+  background: #681D4908;
+}
+button.btn-3 {
+  border-radius: 5px;
+  border: none;
+  padding: 19px 45px;
+  background-color: #BA135F;
+  color: white;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 50px;
+}
+#myForm p {
+  font-family: Montserrat;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  max-width: 531px;
+  color: #666666;
+}
+
+.home-care-righht-sec iframe {
+    width:100%;
+    height:400px;
+  }
+
+.form-group .g-recaptcha {
+    margin-top: 20px;
+}
+
+/* NT */
+
+.shedule-a-consulation1 a {
+  text-decoration: none;
+}
+
+.shedule-a-consulation a,.bottom-form-num a {
+  color: rgba(104, 29, 73, 1);
+  text-decoration: none;
+}
+
+.modal-content {
+  margin: auto;
+  height: auto;
+  border: 0;
+}
+
+.modal .container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.start-converstaion1 {
+  position: relative;
+}
+
+.start-converstaion1 h4 {
+  font-size: 18px;
+  line-height: 1.2;
+  padding: 12px 40px;
+}
+
+.consulation-content {
+  padding: 10px 40px;
+}
+
+.shedule-a-consulation1 h4 {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.consulation-content {
+  border-radius: 0px 0px 15px 15px;
+}
+
+.modal .form-control {
+  padding: 8px;
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+button.btn-3 {
+  margin-top: 15px;
+}
+
+button.btn-3 {
+  padding: 12px 45px;
+}
+
+footer .Consultation a {
+  color: #fff;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+#myForm p {
+  margin: -3px 10px 0px;
+  font-size: 10px;
+}
+
+#myForm p.notice {
+  margin: 10px 0px 0px;
+  font-size: 12px;
+}
